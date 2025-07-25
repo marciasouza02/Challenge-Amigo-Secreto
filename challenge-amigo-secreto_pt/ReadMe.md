@@ -1,6 +1,6 @@
-# Meu Projeto
+# Meu Projeto: Amigo Secreto
 
-Este projeto faz XYZ...
+Nesse projeto possível criar uma lista com os nomes dos amigos e sortear o amigo secreto
 
 ## Como usar
 
