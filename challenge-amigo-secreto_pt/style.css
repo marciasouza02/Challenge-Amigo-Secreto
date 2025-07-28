@@ -160,3 +160,33 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+/* Botão de limpar lista */
+.button-clear {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  background-color: #e74c3c; /* vermelho claro */
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 12px;
+  font-family: 'Inter', sans-serif;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button-clear:hover {
+  background-color: #c0392b; /* vermelho mais escuro */
+}
+
+.button-clear img {
+  width: 5px;
+  height: 5px;
+}
+.botao-centralizado {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
