@@ -32,4 +32,4 @@ E lá estará os amigos secretos de cada um.
 
 
 ## Autor
-Clea Marcia Vieira Lima
+Clea Marcia Vieira de Souza
